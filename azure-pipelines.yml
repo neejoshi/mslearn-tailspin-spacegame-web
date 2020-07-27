@@ -45,7 +45,7 @@ steps:
 
 - template: templates/build.yml
   parameters:
-    buildConfiguration: 'Debug'
+    buildConfiguration: 'Deb1'
 
 - template: templates/build.yml
   parameters:
